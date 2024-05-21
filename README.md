@@ -35,4 +35,4 @@ To explore the sales insights visualizations:
 1. Ensure you have Power BI Desktop installed.
 2. Clone this repository.
    ```bash
-   
+   https://github.com/kshitijreal/Sales-Insights-Data-Analysis-project.git
